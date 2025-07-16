@@ -1,2 +1,2 @@
 # Restoran-Foodes
-Restoran Foodes clint oder
+https://verdant-rugelach-138759.netlify.app/
